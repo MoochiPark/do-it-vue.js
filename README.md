@@ -1,6 +1,6 @@
 # *Do it! Vue.js Introduction*
 
-![](https://img.shields.io/badge/start%20date%20%20-20.05.03-green?style=flat-square&logo=start) ![GitHub last commit](https://img.shields.io/github/last-commit/MoochiPark/do-it-vue.js?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/moochipark/spring?color=orange&logo=javascript&style=flat-square)
+![](https://img.shields.io/badge/start%20date%20%20-20.05.03-green?style=flat-square&logo=start) ![GitHub last commit](https://img.shields.io/github/last-commit/MoochiPark/do-it-vue.js?style=flat-square) ![GitHub top language](https://img.shields.io/github/languages/top/moochipark/do-it-vue.js?color=orange&logo=javascript&style=flat-square)
 
 
 - Do 학습 자료 및 발표자료를 위한 저장소 입니다.
